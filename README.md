@@ -1,4 +1,4 @@
-# The error distribution under the condition of zero ablation on task CC1
+# The error distribution under the condition of zero ablation on task CC1 (Sample size 912)
 
 | Model/Case of Error  | Revert to Modular Addition (%) | Error on Modular Addition (%) |  Fail to Output a Number (%) |
 |---------|---------------------------------------------|---------------------------------------------|------------------------------------------|
@@ -6,7 +6,7 @@
 | Mistral-7B | 97.8                                          | 2.2                                          |     0                                   |
 | Gemma-7B   | 99.4                                          | 0.6                                          |     0                                   |
 
-# The error distribution under the condition of zero ablation on task CC4
+# The error distribution under the condition of zero ablation on task CC4 (Sample size 4146)
 
 | Model/Case of Error  | Revert to Modular Addition (%) | Error on Modular Addition (%) |  Fail to Output a Number (%) |
 |---------|---------------------------------------------|---------------------------------------------|------------------------------------------|
@@ -14,7 +14,7 @@
 | Mistral-7B | 100                                          | 0                                          |     0                                   |
 | Gemma-7B   | 100                                          | 0                                          |     0                                   |
 
-# The error distribution under the condition of zero ablation on task CC10
+# The error distribution under the condition of zero ablation on task CC10 (Sample size 3467)
 
 | Model/Case of Error  | Revert to Modular Addition (%) | Error on Modular Addition (%) |  Fail to Output a Number (%) |
 |---------|---------------------------------------------|---------------------------------------------|------------------------------------------|
