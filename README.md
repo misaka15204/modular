@@ -1,1 +1,23 @@
-# modular
+# The error distribution under the condition of zero ablation on task CC1
+
+| Model/Case of Error  | Revert to Modular Addition (%) | Error on Modular Addition (%) |  Fail to Output a Number (%) |
+|---------|---------------------------------------------|---------------------------------------------|------------------------------------------|
+| LLaMA2-7B   | 98.3                                          | 1.3                                          |    0.4                                    |
+| Mistral-7B | 97.8                                          | 2.2                                          |     0                                   |
+| Gemma-7B   | 99.4                                          | 0.6                                          |     0                                   |
+
+# The error distribution under the condition of zero ablation on task CC4
+
+| Model/Case of Error  | Revert to Modular Addition (%) | Error on Modular Addition (%) |  Fail to Output a Number (%) |
+|---------|---------------------------------------------|---------------------------------------------|------------------------------------------|
+| LLaMA2-7B   | 98.9                                          | 0                                          |    1.1                                    |
+| Mistral-7B | 100                                          | 0                                          |     0                                   |
+| Gemma-7B   | 100                                          | 0                                          |     0                                   |
+
+# The error distribution under the condition of zero ablation on task CC10
+
+| Model/Case of Error  | Revert to Modular Addition (%) | Error on Modular Addition (%) |  Fail to Output a Number (%) |
+|---------|---------------------------------------------|---------------------------------------------|------------------------------------------|
+| LLaMA2-7B   | 100                                          | 0                                          |    0                                    |
+| Mistral-7B | 100                                          | 0                                          |     0                                   |
+| Gemma-7B   | 100                                          | 0                                          |     0                                   |
