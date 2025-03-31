@@ -1,4 +1,4 @@
-# The error distribution under the condition of zero ablation on task CC1 (Sample size 812)
+## The error distribution under the condition of zero ablation on task CC1 (Sample size 812)
 
 | Model/Case of Error  | Revert to Modular Addition (%) | Error on Modular Addition (%) |  Fail to Output a Number (%) |
 |---------|---------------------------------------------|---------------------------------------------|------------------------------------------|
@@ -6,7 +6,7 @@
 | Mistral-7B | 97.8                                          | 2.2                                          |     0                                   |
 | Gemma-7B   | 99.4                                          | 0.6                                          |     0                                   |
 
-# The error distribution under the condition of zero ablation on task CC4 (Sample size 1846)
+## The error distribution under the condition of zero ablation on task CC4 (Sample size 1846)
 
 | Model/Case of Error  | Revert to Modular Addition (%) | Error on Modular Addition (%) |  Fail to Output a Number (%) |
 |---------|---------------------------------------------|---------------------------------------------|------------------------------------------|
@@ -14,7 +14,7 @@
 | Mistral-7B | 97.3                                          | 2.7                                          |     0                                   |
 | Gemma-7B   | 99.4                                          | 0.6                                          |     0                                   |
 
-# The error distribution under the condition of zero ablation on task CC10 (Sample size 1467)
+## The error distribution under the condition of zero ablation on task CC10 (Sample size 1467)
 
 | Model/Case of Error  | Revert to Modular Addition (%) | Error on Modular Addition (%) |  Fail to Output a Number (%) |
 |---------|---------------------------------------------|---------------------------------------------|------------------------------------------|
